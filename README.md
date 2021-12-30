@@ -9,6 +9,9 @@ This code allows you to keep track of the number of COVID cases on a daily basis
  
 You will have access to:
 
-1) Live animated map showing you various statistics per country, region, and even province, on a daily basis. 
-2️) Live histograms as well as logarithmic and linear plots of cases vs day, per country/province. You could also compare statistics per country/province or region.
-3️) Detailed table depicting more useful metrics such as, new confirmed cases, total confirmed cases, total estimated recoveries, new estimated recoveries, total deceased and newly deceased cases, total active as well as newly active cases.
+1) Live animated map showing you various statistics per country, region, and even province, on a daily basis.
+2) Live histograms as well as logarithmic and linear plots of cases vs day, per country/province. You could also compare statistics per country/province or region.
+3) Detailed table depicting more useful metrics such as, new confirmed cases, total confirmed cases, total estimated recoveries, new estimated recoveries, total deceased and newly deceased cases, total active as well as newly active cases.
+
+
+PS: I'm not a frequent GITHUB user - so please forgive me if this readme file is not well formatted ^^
